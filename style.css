@@ -1,0 +1,14 @@
+body {
+    transition: background-color 0.5s ease;
+}
+.container {
+    text-align: center;
+    margin-top: 90px;
+  
+}
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    
+}
